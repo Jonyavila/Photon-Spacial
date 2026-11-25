@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+transformers
+torch
+torchvision
+pillow
+numpy
+opencv-python-headless
+simple-lama-inpainting
+scikit-image
